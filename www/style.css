@@ -1,0 +1,16 @@
+/* Change background colors */
+  .content-wrapper {
+    background-color: #f8f9fa !important;
+  }
+
+/* Improve box appearance */
+  .box {
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.2);
+  }
+
+/* Make tables look better */
+  .dataTable {
+    font-size: 14px;
+    background-color: white;
+  }
